@@ -22,8 +22,8 @@ Description: This project is a application which plays sounds when pressed certa
 
 ### How to Run
 
-1. Clone the repository: `git clone https://github.com/yourusername/30-vanilla-js-projects.git`
-2. Navigate to the project folder: `cd 30-vanilla-js-projects/project1-todo-list`
+1. Clone the repository: `git clone https://github.com/Drake224025/vanilla-javascript-projects`
+2. Navigate to the project folder: `cd 30-vanilla-js-projects/relevant-folder`
 3. Open `index.html` in your web browser.
 
 ### Screenshots
